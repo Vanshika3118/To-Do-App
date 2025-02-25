@@ -18,6 +18,10 @@ git clone https://github.com/your-username/todo-app.git
 Open index.html in your browser.
 Start adding and managing your tasks!
 
+Screenshot
+![Screenshot 2025-02-25 103158](https://github.com/user-attachments/assets/ff6ebc5b-eed2-4541-96f5-85c13ec6944c)
+
+
 #💡 Technologies Used
 HTML – Structuring the app
 CSS – Adding stylish and fun cartoon effects

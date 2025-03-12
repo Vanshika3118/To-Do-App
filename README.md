@@ -19,11 +19,12 @@ Open index.html in your browser.
 Start adding and managing your tasks!
 
 #Screenshot📸
-
-#Live Demo: https://vanshika3118.github.io/To-Do-App/
-
+![Screenshot 2025-03-12 103025](https://github.com/user-attachments/assets/143c2d65-24bd-4c00-ac35-01581b540349)
 
 #💡 Technologies Used
 HTML – Structuring the app
 CSS – Adding stylish and fun cartoon effects
 JavaScript – Making it interactive
+
+#Live Demo: https://vanshika3118.github.io/To-Do-App/
+

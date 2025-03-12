@@ -14,7 +14,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/Vanshika3118/todo-app.git
 Open index.html in your browser.
 Start adding and managing your tasks!
 

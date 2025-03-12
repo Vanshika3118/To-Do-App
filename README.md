@@ -26,5 +26,5 @@ HTML – Structuring the app
 CSS – Adding stylish and fun cartoon effects
 JavaScript – Making it interactive
 
-#Live Demo: https://vanshika3118.github.io/To-Do-App/
+#🌎 Live Demo 🚀Check out the live version: https://vanshika3118.github.io/To-Do-App/
 
